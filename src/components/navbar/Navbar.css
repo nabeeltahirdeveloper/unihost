@@ -1,0 +1,15 @@
+.phoneContact {
+    height: 18px;
+    width: 119px;
+   margin-left: 144.65px;
+}
+.phoneImage{
+    height: 18px;
+    width: 18px;
+    display: inline-block;
+}
+.phoneNumber{
+    font-size: 11px;
+}
+
+.mail{}
